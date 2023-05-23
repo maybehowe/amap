@@ -2,7 +2,6 @@
   "name": "marker-content",
   "version": "1.0.0",
   "description": "点标记-通过icon属性创建Marker，展示添加、修改、删除Marker的接口",
-  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
