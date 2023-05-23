@@ -1,0 +1,22 @@
+{
+  "name": "amap",
+  "version": "1.0.0",
+  "description": "amap demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybehowe/amap.git"
+  },
+  "keywords": [
+    "amap"
+  ],
+  "author": "maybehowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybehowe/amap/issues"
+  },
+  "homepage": "https://github.com/maybehowe/amap#readme"
+}
