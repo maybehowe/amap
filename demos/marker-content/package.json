@@ -1,0 +1,24 @@
+{
+  "name": "marker-content",
+  "version": "1.0.0",
+  "description": "点标记-通过icon属性创建Marker，展示添加、修改、删除Marker的接口",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybehowe/amap.git"
+  },
+  "keywords": [
+    "amap",
+    "marker",
+    "demos"
+  ],
+  "author": "howe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybehowe/amap/issues"
+  },
+  "homepage": "https://github.com/maybehowe/amap#readme"
+}
